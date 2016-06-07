@@ -1,0 +1,8 @@
+summary: 
+ Among those attending the audience were six Russian cosmonauts taking a special course in Italy.
+
+ anti-summary: 
+ Speaking during his general audience, the pope urged ``all public and private institutions and all men of good will'' to do all they can ``in this grave moment of destruction and death.
+
+ textrank summary:
+ Among those attending the audience were six Russian cosmonauts taking a special course in Italy.

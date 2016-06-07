@@ -1,0 +1,8 @@
+summary: 
+ If approved, the legislature will debate the motions on Monday and hold the no-confidence vote Wednesday. The opposition accuses Prime Minister Mesut Yilmaz of having ties to organized crime and tampering with the privatization of a state bank.
+
+ anti-summary: 
+  Parliament convened Thursday to vote on whether to move toward a no-confidence motion that could bring down the government over an organized crime scandal. The opposition accuses Prime Minister Mesut Yilmaz of having ties to organized crime and tampering with the privatization of a state bank.
+
+ textrank summary:
+  Parliament convened Thursday to vote on whether to move toward a no-confidence motion that could bring down the government over an organized crime scandal. Thursday's vote to put the motion on the agenda will be an indication of the government's chances of survival, which are said to be extremely slim.

@@ -1,0 +1,8 @@
+summary: 
+ Li, who has not had many chances to play since his move to France, also ``is very willing to come back,'' the newspaper said. China and South Korea will both field their Asian Games teams at a friendly warm-up match Nov. 22, the newspaper said.
+
+ anti-summary: 
+ Two of the players, Fan Zhiyi and Sun Jihai, play for Crystal Palace in the English First Division. Li, who has not had many chances to play since his move to France, also ``is very willing to come back,'' the newspaper said.
+
+ textrank summary:
+ Two of the players, Fan Zhiyi and Sun Jihai, play for Crystal Palace in the English First Division. Englishman Bob Houghton, who coaches the national team, said recalling Fan and Sun for the Asian Games would allow him to ``see if they can bring the things they have learned recently in England to the national team,'' the China Sports Daily said.

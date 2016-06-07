@@ -1,0 +1,8 @@
+summary: 
+ The fall continued the steady decline of inflation in the euro-zone over the past year. With the European Central Bank setting a common interest rate for the whole bloc, some economists fear the low rate designed to boost core EU economies like France and Germany may bring overheating in smaller nations with faster growth. There was good news for Greece which was kept out of the euro-zone for failing to meet economic conditions for joining, including low inflation. Greece hops to join the euro-zone in 2001.
+
+ anti-summary: 
+  The annual inflation rate in the 11 nations that adopt the euro as their shared currency on Jan. 1 fell to 0.9 percent in November, the European Union's statistics agency reported Wednesday. The fall continued the steady decline of inflation in the euro-zone over the past year. Annual inflation stood at 1 percent in October and 1.6 percent in November 1997, according to Eurostat's monthly report. With the European Central Bank setting a common interest rate for the whole bloc, some economists fear the low rate designed to boost core EU economies like France and Germany may bring overheating in smaller nations with faster growth.
+
+ textrank summary:
+  The annual inflation rate in the 11 nations that adopt the euro as their shared currency on Jan. 1 fell to 0.9 percent in November, the European Union's statistics agency reported Wednesday. Annual inflation stood at 1 percent in October and 1.6 percent in November 1997, according to Eurostat's monthly report. In the 15 nation EU as a whole, inflation fell to 1 percent in November compared to 1.5 percent in the United States and 0.8 percent in Japan. It's rate was 3.9 percent in November down from 5 percent a year before.

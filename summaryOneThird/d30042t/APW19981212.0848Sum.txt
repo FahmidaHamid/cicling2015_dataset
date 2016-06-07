@@ -1,0 +1,8 @@
+summary: 
+ Al Thani handed Gadhafi a letter that reaffirmed Qatar's support for Libya ``in its just position toward the so-called Lockerbie case,'' the television said, referring to Libya's objections to the U.N. sanctions imposed in 1992 to press it to hand over two Libyans wanted for the 1988 bombing of a Pan Am airliner over the Scottish town of Lockerbie that left 270 people dead.
+
+ anti-summary: 
+ Al Thani handed Gadhafi a letter that reaffirmed Qatar's support for Libya ``in its just position toward the so-called Lockerbie case,'' the television said, referring to Libya's objections to the U.N. sanctions imposed in 1992 to press it to hand over two Libyans wanted for the 1988 bombing of a Pan Am airliner over the Scottish town of Lockerbie that left 270 people dead.
+
+ textrank summary:
+ The television gave no other details about the visit. 

@@ -1,0 +1,229 @@
+(Filename, (P /\ T), (N /\ T), (P /\ N), SummaryLen, #sentences)
+D30001.P.10.T.TextRank.APW19981120.0274.html ,  3 ,  2 ,  2 ,  4.0 ,  12 
+
+D30001.P.10.T.TextRank.APW19981124.0267.html ,  1 ,  2 ,  2 ,  3 ,  8 
+
+D30002.P.10.T.TextRank.APW19981028.1120.html ,  2 ,  1 ,  1 ,  3 ,  7 
+
+D30002.P.10.T.TextRank.APW19981031.0720.html ,  1 ,  1 ,  1 ,  1 ,  1 
+
+D30002.P.10.T.TextRank.APW19981101.0843.html ,  2 ,  1 ,  2 ,  3 ,  5 
+
+D30002.P.10.T.TextRank.APW19981102.0737.html ,  1 ,  1 ,  1 ,  1 ,  1 
+
+D30002.P.10.T.TextRank.APW19981103.0526.html ,  1 ,  0 ,  1 ,  3 ,  11 
+
+D30002.P.10.T.TextRank.APW19981104.0539.html ,  3 ,  3 ,  3 ,  3 ,  4 
+
+D30003.P.10.T.TextRank.APW19981024.0192.html ,  3 ,  2 ,  1 ,  4.0 ,  12 
+
+D30003.P.10.T.TextRank.APW19981025.0449.html ,  2 ,  2 ,  1 ,  3 ,  9 
+
+D30003.P.10.T.TextRank.APW19981028.0444.html ,  1 ,  0 ,  1 ,  3 ,  9 
+
+D30005.P.10.T.TextRank.APW19981003.0517.html ,  3 ,  1 ,  1 ,  3 ,  8 
+
+D30005.P.10.T.TextRank.APW19981112.0551.html ,  2 ,  2 ,  1 ,  3 ,  10 
+
+D30005.P.10.T.TextRank.APW19981119.0552.html ,  2 ,  0 ,  0 ,  3 ,  7 
+
+D30005.P.10.T.TextRank.APW19981120.0887.html ,  2 ,  2 ,  1 ,  3 ,  8 
+
+D30005.P.10.T.TextRank.APW19981129.0665.html ,  3 ,  0 ,  0 ,  3 ,  8 
+
+D30007.P.10.T.TextRank.APW19981010.0696.html ,  2 ,  1 ,  0 ,  3 ,  8 
+
+D30008.P.10.T.TextRank.APW19981023.0281.html ,  2 ,  2 ,  2 ,  3 ,  7 
+
+D30008.P.10.T.TextRank.APW19981109.0264.html ,  3 ,  2 ,  2 ,  3 ,  6 
+
+D30008.P.10.T.TextRank.APW19981109.0274.html ,  2 ,  0 ,  0 ,  3 ,  11 
+
+D30010.P.10.T.TextRank.APW19981106.0273.html ,  2 ,  1 ,  1 ,  3 ,  6 
+
+D30010.P.10.T.TextRank.APW19981106.0276.html ,  2 ,  1 ,  2 ,  3 ,  8 
+
+D30010.P.10.T.TextRank.APW19981107.0568.html ,  2 ,  2 ,  1 ,  3 ,  8 
+
+D30011.P.10.T.TextRank.APW19981002.0550.html ,  2 ,  1 ,  0 ,  3 ,  11 
+
+D30015.P.10.T.TextRank.APW19981005.0205.html ,  3 ,  2 ,  2 ,  3 ,  5 
+
+D30015.P.10.T.TextRank.APW19981005.0762.html ,  2 ,  1 ,  2 ,  3 ,  9 
+
+D30017.P.10.T.TextRank.APW19981104.0245.html ,  3 ,  2 ,  2 ,  3 ,  7 
+
+D30017.P.10.T.TextRank.APW19981118.0898.html ,  2 ,  1 ,  1 ,  3 ,  11 
+
+D30017.P.10.T.TextRank.APW19981119.0262.html ,  1 ,  1 ,  1 ,  3 ,  8 
+
+D30017.P.10.T.TextRank.APW19981221.0189.html ,  2 ,  2 ,  1 ,  3 ,  5 
+
+D30020.P.10.T.TextRank.APW19981002.0557.html ,  3 ,  2 ,  2 ,  3 ,  9 
+
+D30020.P.10.T.TextRank.APW19981030.1074.html ,  1 ,  2 ,  1 ,  3 ,  8 
+
+D30020.P.10.T.TextRank.APW19981102.0220.html ,  2 ,  1 ,  0 ,  3 ,  7 
+
+D30022.P.10.T.TextRank.APW19981015.0177.html ,  1 ,  1 ,  0 ,  3 ,  10 
+
+D30027.P.10.T.TextRank.APW19981002.0783.html ,  3 ,  1 ,  2 ,  4.0 ,  12 
+
+D30027.P.10.T.TextRank.APW19981002.0809.html ,  2 ,  2 ,  2 ,  3 ,  7 
+
+D30028.P.10.T.TextRank.APW19981001.0539.html ,  3 ,  1 ,  1 ,  3 ,  6 
+
+D30028.P.10.T.TextRank.APW19981004.0182.html ,  2 ,  1 ,  1 ,  3 ,  6 
+
+D30029.P.10.T.TextRank.APW19981226.0185.html ,  1 ,  1 ,  0 ,  3 ,  11 
+
+D30029.P.10.T.TextRank.APW19981227.0840.html ,  3 ,  1 ,  1 ,  4.0 ,  12 
+
+D30033.P.10.T.TextRank.APW19981127.0244.html ,  1 ,  1 ,  2 ,  3 ,  6 
+
+D30033.P.10.T.TextRank.APW19981228.0189.html ,  2 ,  1 ,  2 ,  3 ,  5 
+
+D30033.P.10.T.TextRank.APW19981229.0467.html ,  1 ,  0 ,  1 ,  3 ,  11 
+
+D30033.P.10.T.TextRank.APW19981230.0431.html ,  2 ,  2 ,  2 ,  3 ,  11 
+
+D30033.P.10.T.TextRank.APW19981230.0473.html ,  0 ,  1 ,  1 ,  3 ,  7 
+
+D30033.P.10.T.TextRank.APW19981231.0143.html ,  3 ,  1 ,  1 ,  3 ,  6 
+
+D30034.P.10.T.TextRank.APW19981205.0792.html ,  2 ,  2 ,  2 ,  3 ,  11 
+
+D30034.P.10.T.TextRank.APW19981205.0807.html ,  2 ,  2 ,  2 ,  3 ,  11 
+
+D30034.P.10.T.TextRank.APW19981211.0972.html ,  4 ,  0 ,  0 ,  4.0 ,  12 
+
+D30034.P.10.T.TextRank.APW19981211.0982.html ,  2 ,  1 ,  1 ,  3 ,  9 
+
+D30034.P.10.T.TextRank.APW19981211.0990.html ,  2 ,  0 ,  1 ,  3 ,  9 
+
+D30034.P.10.T.TextRank.APW19981212.0541.html ,  3 ,  1 ,  1 ,  3 ,  7 
+
+D30037.P.10.T.TextRank.APW19981004.0138.html ,  2 ,  0 ,  0 ,  3 ,  10 
+
+D30037.P.10.T.TextRank.APW19981009.1040.html ,  3 ,  0 ,  0 ,  4.0 ,  12 
+
+D30037.P.10.T.TextRank.APW19981010.0164.html ,  2 ,  0 ,  1 ,  3 ,  8 
+
+D30037.P.10.T.TextRank.APW19981010.0173.html ,  3 ,  1 ,  1 ,  3 ,  8 
+
+D30037.P.10.T.TextRank.APW19981010.0383.html ,  2 ,  1 ,  1 ,  4.0 ,  12 
+
+D30038.P.10.T.TextRank.APW19981211.1288.html ,  3 ,  3 ,  3 ,  3 ,  3 
+
+D30038.P.10.T.TextRank.APW19981213.0412.html ,  1 ,  0 ,  1 ,  3 ,  7 
+
+D30038.P.10.T.TextRank.APW19981213.0424.html ,  3 ,  2 ,  2 ,  3 ,  6 
+
+D30040.P.10.T.TextRank.APW19981119.1180.html ,  3 ,  1 ,  1 ,  4.0 ,  12 
+
+D30040.P.10.T.TextRank.APW19981205.0220.html ,  1 ,  1 ,  2 ,  3 ,  6 
+
+D30040.P.10.T.TextRank.APW19981229.0756.html ,  2 ,  1 ,  1 ,  3 ,  9 
+
+D30040.P.10.T.TextRank.APW19981229.0763.html ,  2 ,  1 ,  1 ,  3 ,  9 
+
+D30040.P.10.T.TextRank.APW19981230.0991.html ,  1 ,  1 ,  1 ,  1 ,  1 
+
+D30042.P.10.T.TextRank.APW19981019.0307.html ,  1 ,  1 ,  3 ,  3 ,  11 
+
+D30042.P.10.T.TextRank.APW19981205.0172.html ,  1 ,  1 ,  1 ,  1 ,  1 
+
+D30042.P.10.T.TextRank.APW19981212.0848.html ,  3 ,  3 ,  3 ,  3 ,  3 
+
+D30044.P.10.T.TextRank.APW19981116.0221.html ,  3 ,  3 ,  3 ,  3 ,  3 
+
+D30044.P.10.T.TextRank.APW19981116.1120.html ,  1 ,  2 ,  0 ,  3 ,  9 
+
+D30044.P.10.T.TextRank.APW19981117.0528.html ,  2 ,  0 ,  0 ,  3 ,  8 
+
+D30044.P.10.T.TextRank.APW19981117.0530.html ,  3 ,  1 ,  1 ,  4.0 ,  12 
+
+D30047.P.10.T.TextRank.APW19981120.0892.html ,  2 ,  3 ,  2 ,  3 ,  4 
+
+D30048.P.10.T.TextRank.APW19981017.0692.html ,  2 ,  1 ,  1 ,  4.0 ,  12 
+
+D30051.P.10.T.TextRank.APW19981108.0803.html ,  2 ,  0 ,  2 ,  4.0 ,  12 
+
+D30051.P.10.T.TextRank.APW19981111.0631.html ,  3 ,  2 ,  2 ,  3 ,  6 
+
+D30051.P.10.T.TextRank.APW19981121.0514.html ,  1 ,  1 ,  1 ,  3 ,  8 
+
+D30053.P.10.T.TextRank.APW19981207.1390.html ,  1 ,  1 ,  1 ,  1 ,  1 
+
+D30053.P.10.T.TextRank.APW19981216.0275.html ,  2 ,  2 ,  2 ,  2 ,  2 
+
+D30055.P.10.T.TextRank.APW19981004.0320.html ,  3 ,  3 ,  3 ,  3 ,  3 
+
+D30055.P.10.T.TextRank.APW19981009.0494.html ,  1 ,  2 ,  2 ,  3 ,  5 
+
+D30055.P.10.T.TextRank.APW19981009.0501.html ,  1 ,  2 ,  2 ,  3 ,  5 
+
+D30055.P.10.T.TextRank.APW19981009.0525.html ,  2 ,  2 ,  2 ,  2 ,  2 
+
+D30055.P.10.T.TextRank.APW19981012.0281.html ,  1 ,  0 ,  1 ,  4.0 ,  12 
+
+D30056.P.10.T.TextRank.APW19981016.0448.html ,  2 ,  2 ,  2 ,  3 ,  6 
+
+D30056.P.10.T.TextRank.APW19981209.0688.html ,  3 ,  2 ,  2 ,  3 ,  5 
+
+D30056.P.10.T.TextRank.APW19981212.0597.html ,  1 ,  0 ,  0 ,  3 ,  10 
+
+D30059.P.10.T.TextRank.APW19981120.1199.html ,  3 ,  2 ,  2 ,  3 ,  5 
+
+D30059.P.10.T.TextRank.APW19981120.1224.html ,  2 ,  1 ,  1 ,  3 ,  11 
+
+D30059.P.10.T.TextRank.APW19981120.1237.html ,  2 ,  2 ,  2 ,  3 ,  10 
+
+D30059.P.10.T.TextRank.APW19981120.1239.html ,  2 ,  2 ,  2 ,  3 ,  10 
+
+D30059.P.10.T.TextRank.NYT19981122.0110.html ,  2 ,  1 ,  1 ,  3 ,  9 
+
+D31001.P.10.T.TextRank.APW19981031.0742.html ,  2 ,  2 ,  3 ,  3 ,  8 
+
+D31009.P.10.T.TextRank.APW19981111.1240.html ,  2 ,  1 ,  1 ,  3 ,  8 
+
+D31009.P.10.T.TextRank.APW19981119.0529.html ,  1 ,  2 ,  2 ,  3 ,  6 
+
+D31009.P.10.T.TextRank.APW19981203.0322.html ,  1 ,  1 ,  0 ,  3 ,  9 
+
+D31009.P.10.T.TextRank.APW19981209.0696.html ,  1 ,  1 ,  1 ,  3 ,  11 
+
+D31009.P.10.T.TextRank.APW19981219.0504.html ,  1 ,  0 ,  2 ,  3 ,  9 
+
+D31013.P.10.T.TextRank.NYT19981110.0442.html ,  3 ,  0 ,  0 ,  3 ,  10 
+
+D31022.P.10.T.TextRank.APW19981030.1041.html ,  3 ,  3 ,  3 ,  3 ,  3 
+
+D31022.P.10.T.TextRank.APW19981030.1046.html ,  1 ,  0 ,  1 ,  3 ,  10 
+
+D31032.P.10.T.TextRank.APW19981001.0299.html ,  2 ,  2 ,  2 ,  2 ,  2 
+
+D31032.P.10.T.TextRank.APW19981007.0563.html ,  2 ,  0 ,  1 ,  4.0 ,  12 
+
+D31032.P.10.T.TextRank.APW19981012.0522.html ,  3 ,  2 ,  2 ,  3 ,  4 
+
+D31032.P.10.T.TextRank.APW19981012.1126.html ,  2 ,  1 ,  1 ,  3 ,  8 
+
+D31033.P.10.T.TextRank.NYT19981018.0093.html ,  2 ,  2 ,  2 ,  3 ,  7 
+
+D31038.P.10.T.TextRank.APW19981104.0772.html ,  1 ,  2 ,  1 ,  3 ,  10 
+
+D31038.P.10.T.TextRank.APW19981112.0551.html ,  2 ,  2 ,  1 ,  3 ,  10 
+
+D31038.P.10.T.TextRank.APW19981120.0887.html ,  2 ,  2 ,  1 ,  3 ,  8 
+
+D31043.P.10.T.TextRank.APW19981013.0301.html ,  3 ,  1 ,  1 ,  4.0 ,  12 
+
+D31043.P.10.T.TextRank.APW19981015.0163.html ,  2 ,  2 ,  2 ,  2 ,  2 
+
+D31043.P.10.T.TextRank.APW19981015.0167.html ,  2 ,  2 ,  2 ,  2 ,  2 
+
+D31050.P.10.T.TextRank.APW19981221.0719.html ,  2 ,  2 ,  2 ,  3 ,  4 
+
+D31050.P.10.T.TextRank.APW19981221.0757.html ,  2 ,  2 ,  2 ,  3 ,  4 
+

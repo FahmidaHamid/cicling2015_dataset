@@ -1,0 +1,8 @@
+summary: 
+  After failing to bring together political rivals in a coalition, Premier-designate Bulent Ecevit announced Saturday that he was returning his mandate to the Turkish president. Demirel will now have to either ask someone else to try to form a government or wait until Jan. 10, when the constitution allows him to appoint a caretaker cabinet to lead the country to parliamentary elections, now scheduled for April. Such a cabinet would not have to face a confidence vote.
+
+ anti-summary: 
+  After failing to bring together political rivals in a coalition, Premier-designate Bulent Ecevit announced Saturday that he was returning his mandate to the Turkish president. Refusing any alliance with the pro-Islamic Virtue Party, Turkey's largest party in Parliament, Ecevit was unable to create a political alliance strong enough to survive a confidence vote in the deeply divided legislature. Such a cabinet would not have to face a confidence vote.
+
+ textrank summary:
+ Ecevit, a veteran leftist, was called on to form a cabinet over two weeks ago after Mesut Yilmaz' coalition government collapsed in a no-confidence vote in Parliament. Ecevit tried in vain to form a coalition government with two rival center-right wing parties -- one led by Yilmaz, the other by former Prime Minister Tansu Ciller. Demirel will now have to either ask someone else to try to form a government or wait until Jan. 10, when the constitution allows him to appoint a caretaker cabinet to lead the country to parliamentary elections, now scheduled for April.

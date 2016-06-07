@@ -1,0 +1,8 @@
+summary: 
+  By one vote, a defector from its own ranks, Premier Romano Prodi's center-left coalition, Italy's second-longest serving government since World War II, lost a confidence vote Friday in the Chamber of Deputies.
+
+ anti-summary: 
+  By one vote, a defector from its own ranks, Premier Romano Prodi's center-left coalition, Italy's second-longest serving government since World War II, lost a confidence vote Friday in the Chamber of Deputies.
+
+ textrank summary:
+  By one vote, a defector from its own ranks, Premier Romano Prodi's center-left coalition, Italy's second-longest serving government since World War II, lost a confidence vote Friday in the Chamber of Deputies.

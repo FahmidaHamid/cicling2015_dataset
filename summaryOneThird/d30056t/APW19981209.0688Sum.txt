@@ -1,0 +1,8 @@
+summary: 
+  The European Union Wednesday condemned the slaying of four foreign hostages in Chechnya and said it would raise the issue with Russia's foreign minister. '' Van den Broek said the EU was determined to see remaining hostages in Chechnya released unharmed.
+
+ anti-summary: 
+ In a statement, EU Foreign Affairs Commissioner Hans van den Broek ``condemned in the strongest terms the senseless killing of the four hostages. He planned to discuss the killings with Russian Foreign Minister Igor Ivanov, who is in Brussels for talks at NATO.
+
+ textrank summary:
+  The European Union Wednesday condemned the slaying of four foreign hostages in Chechnya and said it would raise the issue with Russia's foreign minister. '' Van den Broek said the EU was determined to see remaining hostages in Chechnya released unharmed.

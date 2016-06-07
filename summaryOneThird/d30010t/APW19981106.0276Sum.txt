@@ -1,0 +1,8 @@
+summary: 
+ The decision came less than three hours after a car rigged with explosives blew up in an outdoor market in downtown Jersualem. The Cabinet also said it would not resume the ratification process until Palestinian leader Yasser Arafat has clarified the procedure for revoking clauses in the PLO founding charter calling for Israel's destruction. The procedure is part of the Wye River agreement negotiated last month.
+
+ anti-summary: 
+ The decision came less than three hours after a car rigged with explosives blew up in an outdoor market in downtown Jersualem. Two people were killed and 21 others were wounded in the attack for which the Islamic militant group Hamas claimed responsibility. The Palestinians say a vote is not required. 
+
+ textrank summary:
+  Israel's Cabinet decided Friday to suspend indefinitely its ratification of the land-for-security agreement with the Palestinians. Israel says it should be done by a vote by the Palestine National Council. The Palestinians say a vote is not required. 

@@ -1,0 +1,8 @@
+summary: 
+  German Foreign Minister Joschka Fischer, who drew China's anger recently by meeting with exiled dissident Wei Jingsheng, said China's sentencing of two dissidents Monday was unacceptable and flouted an international treaty the country recently signed.
+
+ anti-summary: 
+ Chinese courts sentenced dissidents Xu Wenli and Wang Youcai to 13 and 11 years for trying to organize an opposition political party. 
+
+ textrank summary:
+  German Foreign Minister Joschka Fischer, who drew China's anger recently by meeting with exiled dissident Wei Jingsheng, said China's sentencing of two dissidents Monday was unacceptable and flouted an international treaty the country recently signed.

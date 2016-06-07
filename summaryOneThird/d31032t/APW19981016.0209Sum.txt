@@ -1,0 +1,8 @@
+summary: 
+ He was spending Friday at a country home outside Moscow after defying the orders of his doctors and working in the Kremlin for the past two days. Aides said the president's condition was ``satisfactory. But Luzhkov has always been supportive of Yeltsin and had never before questioned the president's health or ability to govern. Yeltsin has a long history of health problems, including a heart bypass surgery two years ago. Each new ailment rekindles speculation about his fitness to govern.
+
+ anti-summary: 
+ But Luzhkov has always been supportive of Yeltsin and had never before questioned the president's health or ability to govern. ``And because of (Yeltsin's) poor health, he is no longer able to give the country as much time as it demands. '' Luzhkov's spokesman Mikhail Solomentsev refused to elaborate on the statement. Yeltsin has a long history of health problems, including a heart bypass surgery two years ago. Each new ailment rekindles speculation about his fitness to govern.
+
+ textrank summary:
+ Government sources said the president has also called off a visit to Austria later this month, but the Kremlin said those plans were still going forward. The president has been suffering from bronchitis and a cold this week, which forced him to cut short a visit to Central Asia on Monday. Aides said the president's condition was ``satisfactory. ``According to our constitution, the president himself has to say he is not able to work,'' Luzhkov said in an interview with the BBC in Moscow. The president and his doctors say Yeltsin has no serious health problems and will serve out the final two years of his term. 

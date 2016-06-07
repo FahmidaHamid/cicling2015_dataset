@@ -1,0 +1,337 @@
+APW19981016.0240 : must_be_a _news!
+APW19981022.0269 : must_be_a _news!
+APW19981026.0220: more_negative!
+APW19981027.0491: more_negative!
+APW19981031.0167: more_negative!
+APW19981113.0251: more_negative!
+APW19981116.0205: more_negative!
+APW19981118.0276 : must_be_a _news!
+APW19981120.0274: more_positive!
+ APW19981124.0267: more_negative!
+APW19981028.1120 : must_be_a _news!
+APW19981031.0720 : must_be_a _news!
+APW19981101.0843: more_negative!
+APW19981102.0737 : must_be_a _news!
+APW19981103.0526: more_negative!
+APW19981104.0539 : must_be_a _news!
+APW19981106.0869: more_positive!
+ APW19981018.0423 : must_be_a _news!
+APW19981020.0241: more_negative!
+APW19981021.0557: more_negative!
+APW19981022.1132: more_positive!
+ APW19981023.1166: more_negative!
+APW19981024.0192: more_negative!
+APW19981025.0449: more_positive!
+ APW19981028.0444: more_negative!
+NYT19981026.0292: more_positive!
+ APW19981003.0517 : must_be_a _news!
+APW19981111.0288: more_positive!
+ APW19981112.0551: more_negative!
+APW19981119.0552 : must_be_a _news!
+APW19981120.0887 : must_be_a _news!
+APW19981129.0665: more_negative!
+NYT19981003.0093 : must_be_a _news!
+NYT19981202.0428: more_positive!
+ APW19981018.0836: more_negative!
+APW19981018.0888: more_negative!
+NYT19981008.0461 : must_be_a _news!
+APW19981001.0312: more_negative!
+APW19981002.0522: more_positive!
+ APW19981002.0567: more_positive!
+ APW19981004.0851: more_positive!
+ APW19981006.0556: more_negative!
+APW19981007.0574: more_negative!
+APW19981010.0696 : must_be_a _news!
+APW19981011.0515 : must_be_a _news!
+APW19981011.0744: more_positive!
+ APW19981013.0275: more_negative!
+APW19981004.0281: more_positive!
+ APW19981006.0251: more_positive!
+ APW19981013.0853: more_negative!
+APW19981016.0437 : must_be_a _news!
+APW19981023.0281 : must_be_a _news!
+APW19981108.0837: more_negative!
+APW19981109.0264: more_negative!
+APW19981109.0274: more_negative!
+APW19981106.0273: more_positive!
+ APW19981106.0274: more_positive!
+ APW19981106.0275: more_negative!
+APW19981106.0276: more_negative!
+APW19981107.0568: more_negative!
+APW19981107.0744 : must_be_a _news!
+APW19981107.0752: more_positive!
+ APW19981108.0188: more_negative!
+NYT19981107.0251 : must_be_a _news!
+APW19981001.0315: more_negative!
+APW19981002.0550: more_positive!
+ APW19981002.1081: more_negative!
+APW19981003.0144: more_positive!
+ APW19981004.0281: more_positive!
+ APW19981005.0484: more_positive!
+ APW19981006.0251: more_positive!
+ APW19981008.0259 : must_be_a _news!
+APW19981008.0527: more_positive!
+ APW19981005.0205: more_positive!
+ APW19981005.0233: more_negative!
+APW19981005.0496: more_negative!
+APW19981005.0762: more_positive!
+ APW19981010.0187: more_negative!
+APW19981022.0488: more_negative!
+APW19981104.0245: more_positive!
+ APW19981110.0240: more_negative!
+APW19981118.0898 : must_be_a _news!
+APW19981119.0262 : must_be_a _news!
+APW19981124.0251: more_negative!
+APW19981221.0189: more_positive!
+ NYT19981114.0099: more_negative!
+APW19981002.0557: more_negative!
+APW19981029.0521: more_positive!
+ APW19981030.1074: more_positive!
+ APW19981102.0220 : must_be_a _news!
+APW19981126.0432: more_negative!
+APW19981126.0450: more_positive!
+ APW19981128.0168: more_negative!
+APW19981206.0174: more_positive!
+ APW19981005.0231: more_positive!
+ APW19981015.0177: more_negative!
+APW19981203.0338: more_negative!
+NYT19981202.0309: more_negative!
+NYT19981207.0280: more_positive!
+ NYT19981209.0542: more_positive!
+ NYT19981216.0357 : must_be_a _news!
+NYT19981217.0274: more_negative!
+NYT19981007.0464: more_positive!
+ NYT19981105.0439 : must_be_a _news!
+NYT19981122.0131: more_negative!
+NYT19981123.0478: more_negative!
+NYT19981124.0365: more_positive!
+ APW19981001.1177: more_positive!
+ APW19981002.0778: more_negative!
+APW19981002.0783: more_positive!
+ APW19981002.0809 : must_be_a _news!
+APW19981003.0292: more_negative!
+NYT19981002.0300: more_positive!
+ APW19981001.0539: more_negative!
+APW19981004.0182: more_negative!
+APW19981004.0296: more_positive!
+ APW19981004.0321: more_negative!
+APW19981004.0550: more_negative!
+APW19981005.0236: more_positive!
+ APW19981005.0457: more_positive!
+ APW19981005.0467: more_positive!
+ APW19981005.0474: more_positive!
+ APW19981005.1033: more_positive!
+ APW19981224.0814: more_positive!
+ APW19981226.0185: more_negative!
+APW19981227.0319: more_negative!
+APW19981227.0766: more_positive!
+ APW19981227.0803: more_positive!
+ APW19981227.0836: more_negative!
+APW19981227.0840: more_negative!
+APW19981227.0853: more_negative!
+APW19981207.0418: more_negative!
+APW19981207.0577 : must_be_a _news!
+NYT19981113.0404 : must_be_a _news!
+NYT19981203.0460: more_negative!
+NYT19981206.0178: more_positive!
+ APW19981127.0244: more_negative!
+APW19981203.0649: more_positive!
+ APW19981203.1240: more_negative!
+APW19981228.0189 : must_be_a _news!
+APW19981229.0467: more_positive!
+ APW19981230.0431: more_negative!
+APW19981230.0473: more_negative!
+APW19981231.0143 : must_be_a _news!
+NYT19981119.0380: more_negative!
+APW19981124.0554 : must_be_a _news!
+APW19981126.0443: more_negative!
+APW19981130.0497: more_negative!
+APW19981205.0792: more_positive!
+ APW19981205.0807: more_positive!
+ APW19981211.0972: more_positive!
+ APW19981211.0982: more_positive!
+ APW19981211.0990: more_positive!
+ APW19981212.0541: more_positive!
+ APW19981221.0448: more_negative!
+APW19981007.0823: more_negative!
+APW19981008.0523: more_positive!
+ APW19981009.0788: more_negative!
+APW19981011.0541: more_negative!
+APW19981012.0252: more_positive!
+ APW19981012.0267: more_negative!
+APW19981004.0138 : must_be_a _news!
+APW19981009.1040: more_positive!
+ APW19981010.0164: more_positive!
+ APW19981010.0173: more_positive!
+ APW19981010.0374: more_negative!
+APW19981010.0383 : must_be_a _news!
+APW19981012.0254: more_positive!
+ NYT19981009.0337: more_negative!
+NYT19981009.0486: more_negative!
+APW19981211.0352: more_positive!
+ APW19981211.1288: more_positive!
+ APW19981213.0396: more_negative!
+APW19981213.0412: more_positive!
+ APW19981213.0424: more_negative!
+APW19981213.0720: more_positive!
+ APW19981119.1180: more_negative!
+APW19981119.1227: more_negative!
+APW19981123.1179: more_positive!
+ APW19981205.0220 : must_be_a _news!
+APW19981229.0756 : must_be_a _news!
+APW19981229.0763 : must_be_a _news!
+APW19981230.0983 : must_be_a _news!
+APW19981230.0991 : must_be_a _news!
+APW19981019.0307: more_negative!
+APW19981129.0668: more_negative!
+APW19981202.1230: more_negative!
+APW19981205.0172: more_negative!
+APW19981205.0213: more_negative!
+APW19981206.0364: more_positive!
+ APW19981206.0371 : must_be_a _news!
+APW19981209.1444: more_positive!
+ APW19981212.0848: more_negative!
+APW19981221.1004: more_negative!
+APW19981114.0575: more_positive!
+ APW19981115.0371: more_positive!
+ APW19981115.0618 : must_be_a _news!
+APW19981115.0626: more_negative!
+APW19981116.0221: more_negative!
+APW19981116.0235: more_positive!
+ APW19981116.1120: more_negative!
+APW19981117.0528: more_positive!
+ APW19981117.0530 : must_be_a _news!
+NYT19981116.0479 : must_be_a _news!
+NYT19981127.0203: more_negative!
+NYT19981127.0256: more_positive!
+ NYT19981127.0264: more_positive!
+ NYT19981217.0394: more_negative!
+NYT19981218.0380: more_negative!
+NYT19981219.0106: more_negative!
+APW19981119.0252: more_negative!
+APW19981120.0892: more_negative!
+APW19981121.0727: more_positive!
+ APW19981207.0577 : must_be_a _news!
+APW19981209.1470: more_negative!
+NYT19981113.0404 : must_be_a _news!
+NYT19981120.0427: more_negative!
+APW19981016.0655: more_negative!
+APW19981017.0692 : must_be_a _news!
+APW19981019.0550: more_negative!
+APW19981020.1106: more_negative!
+APW19981021.1160: more_negative!
+APW19981021.1170: more_negative!
+APW19981022.1123: more_negative!
+NYT19981020.0382: more_negative!
+APW19981023.0254 : must_be_a _news!
+APW19981203.0321: more_negative!
+NYT19981028.0441: more_negative!
+NYT19981114.0099: more_negative!
+NYT19981118.0464: more_positive!
+ NYT19981122.0111: more_negative!
+NYT19981005.0479: more_positive!
+ NYT19981009.0434: more_positive!
+ APW19981108.0803 : must_be_a _news!
+APW19981111.0631: more_positive!
+ APW19981116.0213: more_positive!
+ APW19981116.0231: more_positive!
+ APW19981121.0514: more_negative!
+APW19981129.0969 : must_be_a _news!
+APW19981130.0803: more_negative!
+APW19981206.0557: more_negative!
+APW19981207.1390 : must_be_a _news!
+APW19981208.0312: more_positive!
+ APW19981210.0305: more_positive!
+ APW19981216.0275: more_positive!
+ NYT19981127.0267 : must_be_a _news!
+APW19981004.0320: more_negative!
+APW19981005.0721: more_negative!
+APW19981006.0270 : must_be_a _news!
+APW19981009.0494: more_positive!
+ APW19981009.0501: more_positive!
+ APW19981009.0525 : must_be_a _news!
+APW19981012.0281 : must_be_a _news!
+NYT19981004.0064: more_positive!
+ NYT19981005.0306: more_negative!
+APW19981016.0448 : must_be_a _news!
+APW19981209.0688: more_positive!
+ APW19981209.1423: more_positive!
+ APW19981209.1425: more_positive!
+ APW19981210.0940 : must_be_a _news!
+APW19981211.1223: more_negative!
+APW19981212.0189: more_positive!
+ APW19981212.0191: more_positive!
+ APW19981212.0597: more_negative!
+APW19981120.1199: more_positive!
+ APW19981120.1224: more_positive!
+ APW19981120.1237 : must_be_a _news!
+APW19981120.1239 : must_be_a _news!
+APW19981123.0274: more_positive!
+ NYT19981122.0110: more_positive!
+ NYT19981122.0194: more_negative!
+APW19981008.0841 : must_be_a _news!
+APW19981026.0485 : must_be_a _news!
+APW19981026.0787: more_negative!
+APW19981028.0231: more_positive!
+ APW19981031.0742: more_positive!
+ APW19981109.0767 : must_be_a _news!
+NYT19981031.0150: more_positive!
+ NYT19981013.0277: more_negative!
+APW19981111.0309: more_negative!
+APW19981111.1240: more_positive!
+ APW19981119.0529: more_negative!
+APW19981202.0880 : must_be_a _news!
+APW19981203.0322 : must_be_a _news!
+APW19981209.0696: more_positive!
+ APW19981219.0504 : must_be_a _news!
+APW19981221.1044: more_positive!
+ APW19981228.0740 : must_be_a _news!
+NYT19981102.0465: more_negative!
+NYT19981105.0521 : must_be_a _news!
+NYT19981110.0442: more_negative!
+APW19981030.1041: more_positive!
+ APW19981030.1046: more_positive!
+ NYT19981017.0014 : must_be_a _news!
+NYT19981001.0442: more_positive!
+ NYT19981001.0499: more_negative!
+NYT19981013.0339: more_negative!
+NYT19981013.0341: more_positive!
+ NYT19981016.0245: more_negative!
+APW19981001.0299 : must_be_a _news!
+APW19981007.0563: more_negative!
+APW19981011.0535: more_negative!
+APW19981012.0522: more_negative!
+APW19981012.1126 : must_be_a _news!
+APW19981013.0282: more_negative!
+APW19981015.0170: more_negative!
+APW19981015.0569: more_negative!
+APW19981016.0209 : must_be_a _news!
+NYT19981009.0282: more_negative!
+NYT19981018.0084: more_negative!
+NYT19981018.0093 : must_be_a _news!
+APW19981023.0569: more_negative!
+APW19981104.0772: more_negative!
+APW19981105.0282: more_negative!
+APW19981111.0288: more_positive!
+ APW19981112.0551: more_negative!
+APW19981120.0887 : must_be_a _news!
+NYT19981025.0187: more_positive!
+ NYT19981026.0361: more_positive!
+ NYT19981104.0491: more_positive!
+ NYT19981110.0432: more_negative!
+APW19981006.0802: more_negative!
+APW19981007.0567: more_negative!
+APW19981013.0301: more_positive!
+ APW19981015.0163 : must_be_a _news!
+APW19981015.0167 : must_be_a _news!
+APW19981128.0178: more_negative!
+APW19981129.0871 : must_be_a _news!
+APW19981129.0896: more_negative!
+APW19981130.1079 : must_be_a _news!
+APW19981130.1085 : must_be_a _news!
+APW19981005.0231: more_positive!
+ APW19981220.0356: more_positive!
+ APW19981221.0719: more_positive!
+ APW19981221.0757: more_positive!
+ APW19981223.0717: more_negative!
+NYT19981222.0021: more_negative!

@@ -1,0 +1,8 @@
+summary: 
+ During his visit to Tunis, Annan is to meet with authorities here to discuss ``major regional and international issues and the various initiatives aimed at solving unresolved problems,'' according to the local press. A Western diplomat, speaking in Algiers on condition of anonymity, said Annan would travel to Libya on Saturday to meet with authorities there on the 1988 Pan Am bombing that has led to U.N. sanctions against Libya. Neighboring Tunisia provides a land route for those traveling to Libya from the region. A Libyan legal team has been meeting regularly with Annan's legal counsel to discuss a U.S.-British proposal to try the suspects in the Netherlands according to Scottish law and using Scottish judges.
+
+ anti-summary: 
+ The discrepancy in the timing could not be immediately clarified. The sanctions ban flights to and from the country. Annan had said last week that he had hoped for a breakthrough in the case by the end of November. He said then that a trip to Libya ``to bring the issue finally to closure ... has not been excluded.
+
+ textrank summary:
+  Secretary General Kofi Annan said Wednesday he was extending his North African tour to include talks with Libyan authorities. A Western diplomat, speaking in Algiers on condition of anonymity, said Annan would travel to Libya on Saturday to meet with authorities there on the 1988 Pan Am bombing that has led to U.N. sanctions against Libya. The sanctions ban flights to and from the country. He said then that a trip to Libya ``to bring the issue finally to closure ... has not been excluded.

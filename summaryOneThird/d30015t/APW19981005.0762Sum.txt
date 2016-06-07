@@ -1,0 +1,8 @@
+summary: 
+ ``As far as we are concerned, once again, I can tell you we are ready. Holbrooke said he would tell Yugoslav President Slobodan Milosevic of ``the extreme gravity of the situation. '' Sources speaking on condition of anonymity said Holbrooke arrived in Belgrade late Monday afternoon and was expected to meet Milosevic in the evening. 
+
+ anti-summary: 
+  With the threat of NATO attack mounting, Yugoslavia's prime minister warned Monday the nation faces the ``imminent danger of war'' and claimed the government is taking steps to comply with international demands for peace in Kosovo. '' In New York, U.N. Secretary-General Kofi Annan said ``systematic terror'' had been inflicted on Kosovo civilians within recent days and that Yugoslav forces were mostly responsible. '' Following a meeting with Solana in Brussels, Belgium, U.S. special envoy Richard Holbrooke said the situation in the southern Serbian province was as bad now as two weeks ago.
+
+ textrank summary:
+ But NATO Secretary-General Javier Solana told reporters that the Alliance believed Yugoslavia had not yet met the conditions demanded by the U.N. Security Council. Holbrooke said he would tell Yugoslav President Slobodan Milosevic of ``the extreme gravity of the situation. '' Sources speaking on condition of anonymity said Holbrooke arrived in Belgrade late Monday afternoon and was expected to meet Milosevic in the evening. 

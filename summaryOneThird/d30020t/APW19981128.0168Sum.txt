@@ -1,0 +1,8 @@
+summary: 
+ Saudi Arabia's top sports official, Prince Faisal bin Fahd, is studying a proposal by the Olympic Council of Asia to at least send a symbolic delegation to the Dec. 6-20 Games, said the official, speaking on condition of anonymity. Sheik Ahmad, a member of the Kuwaiti royal family, is a friend of Prince Faisal. Thai newspapers reported Saturday that attempts to convince Saudi Arabia to participate in the upcoming 13th Asian Games have failed. The withdrawal has thrown the Games' schedules into disarray. 
+
+ anti-summary: 
+  Saudi Arabia is considering sending a small team to the Bangkok Asian Games from which it pulled out unexpectedly this week, a Saudi official said Saturday. Saudi Arabia's top sports official, Prince Faisal bin Fahd, is studying a proposal by the Olympic Council of Asia to at least send a symbolic delegation to the Dec. 6-20 Games, said the official, speaking on condition of anonymity. The plea to reconsider was made by Sheik Ahmad al-Fahd al Sabah, president of the Olympic Council of Asia. Saudi Arabia's sudden announcement Wednesday that it is withdrawing its 105-member team shocked hosts Thailand, who remain skeptical about the official reasons offered.
+
+ textrank summary:
+  Saudi Arabia is considering sending a small team to the Bangkok Asian Games from which it pulled out unexpectedly this week, a Saudi official said Saturday. Sheik Ahmad, a member of the Kuwaiti royal family, is a friend of Prince Faisal. Saudi Arabia's sudden announcement Wednesday that it is withdrawing its 105-member team shocked hosts Thailand, who remain skeptical about the official reasons offered. Thai newspapers reported Saturday that attempts to convince Saudi Arabia to participate in the upcoming 13th Asian Games have failed.

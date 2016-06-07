@@ -1,0 +1,8 @@
+summary: 
+ The Israeli Cabinet had convened for a second day in an attempt to approve the Wye agreement. ``To our sorrow, since the Wye agreement ... there has been relentless terrorist attacks against Israeli citizens,'' according to a Cabinet statement read on the radio.
+
+ anti-summary: 
+ The Cabinet also insisted that Arafat convene the Palestinian National Council, a parliament in exile, to abrogate the Palestinian National Charter, which calls for Israel's destruction. Israel radio quoted officials saying the Cabinet would also decide to renew construction of the Har Homa neighborhood in the traditionally Arab sector of Jerusalem.
+
+ textrank summary:
+ The Israeli Cabinet had convened for a second day in an attempt to approve the Wye agreement. ``To our sorrow, since the Wye agreement ... there has been relentless terrorist attacks against Israeli citizens,'' according to a Cabinet statement read on the radio.

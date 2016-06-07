@@ -1,0 +1,8 @@
+summary: 
+ It's expected to be a hot affair. Desert will be simple: fresh tropical fruit, said Maleia Marsden, general manager of the Cyberview Lodge, where the leaders were expected to stay during the summit Nov. 17-18.
+
+ anti-summary: 
+  The agenda might be global, but the menu will be Malaysian when world leaders meet next week for the Asia-Pacific Economic Cooperation forum. Spicy delicacies on the menu are satay kajang, a beef or chicken kebab in peanut sauce; ayam percik, chicken curry with chilies; soto ayam, a Malaysian chicken soup, and fried rice ``village-style,'' the Star newspaper reported in Monday editions.
+
+ textrank summary:
+ Spicy delicacies on the menu are satay kajang, a beef or chicken kebab in peanut sauce; ayam percik, chicken curry with chilies; soto ayam, a Malaysian chicken soup, and fried rice ``village-style,'' the Star newspaper reported in Monday editions. Desert will be simple: fresh tropical fruit, said Maleia Marsden, general manager of the Cyberview Lodge, where the leaders were expected to stay during the summit Nov. 17-18.

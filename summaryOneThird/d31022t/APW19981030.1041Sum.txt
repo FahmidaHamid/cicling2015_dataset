@@ -1,0 +1,8 @@
+summary: 
+  A fire turned a dance hall jammed with teen-age Halloween revelers into a deathtrap, killing 60 people and injuring 162 others in Sweden's second-largest city.
+
+ anti-summary: 
+ Police earlier had reported 65 dead, but backed off that figure Friday evening.
+
+ textrank summary:
+ The fast-spreading, 3rd graf pvs 

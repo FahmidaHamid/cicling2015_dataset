@@ -1,0 +1,8 @@
+summary: 
+ In another mine explosion, a tractor driver was killed Thursday in the republic, the Interfax news agency reported, citing Chechnya's security officials. Chechnya considers itself an independent state, although no country, including Russia, has recognized its independence. 
+
+ anti-summary: 
+ In another mine explosion, a tractor driver was killed Thursday in the republic, the Interfax news agency reported, citing Chechnya's security officials. Chechnya's ambulance service said that three to five people are hospitalized every week with injuries from mine explosions, Interfax reported.
+
+ textrank summary:
+ In another mine explosion, a tractor driver was killed Thursday in the republic, the Interfax news agency reported, citing Chechnya's security officials. It did not say how many people are killed.

@@ -1,0 +1,8 @@
+summary: 
+ Although he was elected easily, Duisenberg agreed to step down after four years of his eight year term although he has since said no such ``gentleman's agreement'' exists. However, he said that he would like to see further political integration, especially in the area of foreign tax and social policies. 
+
+ anti-summary: 
+ ``I had hoped you wouldn't ask me that question. Duisenberg told Le Monde, a newspaper that fervently has backed the euro, that the the introduction of the new currency is the most ``significant'' step so far toward European unification.
+
+ textrank summary:
+  Wim Duisenberg, the head of the new European Central Bank, said in an interview published Wednesday that he won't step down after completing half his term as earlier agreed. The answer is no,'' Duisenberg told the Le Monde daily, which had asked him if he would step down after four years on the job.

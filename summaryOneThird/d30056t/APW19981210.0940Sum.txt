@@ -1,0 +1,8 @@
+summary: 
+ The tape was played by Chechen Vice President Vakha Arsanov at a news conference in Grozny. One, Peter Kennedy, claimed they had been sent to Chechnya by the British secret service to monitor telephone conversations. The severed heads of the four hostages were found lined up Tuesday along a highway outside Chechnya's capital, Grozny. The government has said it was trying to rescue the men at the time of their deaths, which have outraged Britain and Russia. Most hostages have been released unharmed, though dozens remain in captivity.
+
+ anti-summary: 
+  One of four foreigners beheaded by kidnappers in Chechnya claimed in a videotape shown today that he and his fellow hostages were British spies. He refused to answer questions about it, including where or when it was filmed and how or why the government had it. The four men, all wearing heavy beards, looked haggard. Chechen security forces were still searching today for the bodies. Asked about the spying allegation, British Ambassador to Russia Andrew Wood said, ``We don't comment on these things in general but any reasonable analysis would show we have no wish to spy on Chechen territory.
+
+ textrank summary:
+ The tape was played by Chechen Vice President Vakha Arsanov at a news conference in Grozny. He refused to answer questions about it, including where or when it was filmed and how or why the government had it. One, Peter Kennedy, claimed they had been sent to Chechnya by the British secret service to monitor telephone conversations. The government has said it was trying to rescue the men at the time of their deaths, which have outraged Britain and Russia. In the tape, Kennedy claimed they were using the equipment to monitor phone calls.

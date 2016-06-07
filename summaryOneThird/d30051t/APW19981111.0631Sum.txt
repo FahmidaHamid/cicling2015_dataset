@@ -1,0 +1,8 @@
+summary: 
+ In a letter to the United Nations Security Council released Wednesday by the tribunal, presiding judge Gabrielle Kirk McDonald of the United States said the failure of Yugoslav officials to grant visas to investigators is ``an affront. The Texas judge fired off the letter last Friday following the refusal of Belgrade authorities to allow tribunal Chief Prosecutor Louise Arbour of Canada and a team of investigators to visit Kosovo.
+
+ anti-summary: 
+  The president of the Yugoslav war crimes tribunal harshly criticized Belgrade authorities anew for refusing to let U.N. investigators probe alleged atrocities in Kosovo. The tribunal wants to look into allegations of war crimes on both sides of the conflict. 
+
+ textrank summary:
+ The Texas judge fired off the letter last Friday following the refusal of Belgrade authorities to allow tribunal Chief Prosecutor Louise Arbour of Canada and a team of investigators to visit Kosovo. The tribunal wants to look into allegations of war crimes on both sides of the conflict. 

@@ -1,0 +1,8 @@
+summary: 
+  Lebanon on Monday denied it is harboring Kurdish rebels and blamed Israel for the rising tension between Syria and Turkey. Prime Minister Rafik Hariri said his country backs Syria in the dispute which was triggered Sunday when Turkish President Suleyman Demirel warned Damascus that his country would not allow its neighbor to continue sheltering Kurdish rebels. ``The Turkish authorities fully know that measures had been taken in Syria and Lebanon more than a 1{ ago to stop the activities of any PKK member,'' Bweiz told a news conference. ``The Turkish threats are the first outcome of the Turkish-Israeli strategic alliance,'' Hariri was quoted as saying.
+
+ anti-summary: 
+  Lebanon on Monday denied it is harboring Kurdish rebels and blamed Israel for the rising tension between Syria and Turkey. Ankara has sent troops to its border with Syria, prompting fears of an attack. ``We stand by Syria's side, especially in its call for resolving disputes with Turkey in the framework of a peaceful dialogue,'' He said. The Lebanese press also accused Israel of inflaming the tensions.
+
+ textrank summary:
+  Lebanon on Monday denied it is harboring Kurdish rebels and blamed Israel for the rising tension between Syria and Turkey. Prime Minister Rafik Hariri said his country backs Syria in the dispute which was triggered Sunday when Turkish President Suleyman Demirel warned Damascus that his country would not allow its neighbor to continue sheltering Kurdish rebels. Hariri said in an interview with An-Nahar daily that Turkey's military moves were the product of its newly forged military alliance with Israel. ``The Turkish threats are the first outcome of the Turkish-Israeli strategic alliance,'' Hariri was quoted as saying.

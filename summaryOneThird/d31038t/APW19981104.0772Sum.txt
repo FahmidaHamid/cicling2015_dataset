@@ -1,0 +1,8 @@
+summary: 
+ The agency's investigation is continuing, Schuebel said. ``For now, we can no longer speak of an immediate threat to the U.S. Embassy,'' she said. In September, German police stepped up security at the U.S. consulate in Hamburg after receiving a tip about a possible threat. 
+
+ anti-summary: 
+  German police raided several locations near Bonn after receiving word of a terrorist threat against the U.S. Embassy, but no evidence of a planned attack was found, officials said Wednesday. A suspected top aide of bin Laden, Mamdouh Mahmud Salim, is jailed in Germany pending a U.S. extradition request, raising concern about reprisals on German soil. In September, German police stepped up security at the U.S. consulate in Hamburg after receiving a tip about a possible threat. 
+
+ textrank summary:
+  German police raided several locations near Bonn after receiving word of a terrorist threat against the U.S. Embassy, but no evidence of a planned attack was found, officials said Wednesday. The embassy had no comment. U.S. authorities charge Salim helped finance, train and arm members of a terrorist organization, including the alleged bombers of the U.S. embassies in Kenya and Tanzania.

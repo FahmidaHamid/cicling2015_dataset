@@ -1,0 +1,6 @@
+Top Sentences in TextRank: 32,13,30,25,21,8,33,29,31,7,
+Top Sentences (Positive): 26,12,35,24,27,20,34,7,36,28,
+Top Sentences(Negative): 0,15,33,37,34,32,13,30,16,3,
+(P /\ T): 1
+(N /\ T): 4
+(P /\ N): 1

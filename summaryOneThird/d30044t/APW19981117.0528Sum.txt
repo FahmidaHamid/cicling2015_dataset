@@ -1,0 +1,8 @@
+summary: 
+ Some 41 Kurds declared a hunger strike Monday to protest Ocalan's detention. The protesters have refused any medical assistance from Romanian authorities, relying on the services of two Kurdish doctors, the paper reported. The detention in Italy of Kurdish rebel leader Ocalan prompted widespread protests by Kurds throughout Europe.
+
+ anti-summary: 
+  Thousands of Kurds living in Romania closed down restaurants, shops and companies to protest the arrest of leader Abdullah Ocalan by Italian authorities, a newspaper reported Tuesday. Kurdish business leaders said the one-day shutdown Monday cost their 1,000 businesses some dlrs 700,000, daily Evenimentul Zilei reported. There are some 4,000 Kurds living in Romania.
+
+ textrank summary:
+  Thousands of Kurds living in Romania closed down restaurants, shops and companies to protest the arrest of leader Abdullah Ocalan by Italian authorities, a newspaper reported Tuesday. Some 41 Kurds declared a hunger strike Monday to protest Ocalan's detention. The detention in Italy of Kurdish rebel leader Ocalan prompted widespread protests by Kurds throughout Europe.
